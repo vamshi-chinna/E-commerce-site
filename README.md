@@ -1,5 +1,5 @@
 ## Old Version
-- https://github.com/jaygajera17/E-commerce-project-springBoot/tree/main
+- https://github.com/vamshi-chinna/E-commerce-
 - issue: everytime connection open close for access database 
 
 ## New Version ( what's new)
@@ -20,7 +20,7 @@
 4. Configure the database connection in `application.properties` file (check the [Database](#database) section below for more info)
 5. Run the project (by running the `main` method in `JtSpringProjectApplication.java`)
 6. Open http://localhost:8080/ in your browser!
-   * If you ran the [`basedata.sql`](https://github.com/jaygajera17/E-commerce-project-springBoot/blob/master2/JtProject/basedata.sql)script on the database, you can log in with the following credentials as admin; otherwise you'll have to manually create an admin user in the database:
+   * If you ran the [`basedata.sql`](https://github.com/vamshigajera17/E-commerce-project-springBoot/blob/master2/JtProject/basedata.sql)script on the database, you can log in with the following credentials as admin; otherwise you'll have to manually create an admin user in the database:
      * Username: `admin`
      * Password: `123`
    * Log in as a normal user:
@@ -57,7 +57,7 @@ When you run the project, the views should be found by Spring Boot and you shoul
 ![configurations](image.png)
 
 # Workflow
-- ![image](https://github.com/jaygajera17/E-commerce-project-springBoot/assets/81226571/69951cb7-65e2-4225-8681-2542859aaec6)
+- ![image](https://github.com/vamshigajera17/E-commerce-project-springBoot/assets/81226571/69951cb7-65e2-4225-8681-2542859aaec6)
 ### Controller
 - control the endpoint and also send data to view( we use ModelAndView method)
 - ``` @GetMapping("login")
@@ -102,9 +102,9 @@ The following guides illustrate how to use some features concretely:
 
 ## Preview
 
-![image](https://github.com/jaygajera17/E-commerce-project-springBoot/assets/81226571/02a04d3c-1fc9-418c-b231-639f6525d07e)
-![image](https://github.com/jaygajera17/E-commerce-project-springBoot/assets/81226571/24c4451b-43a6-4c23-a78a-786eab4303b0)
-![image](https://github.com/jaygajera17/E-commerce-project-springBoot/assets/81226571/93c1baeb-326c-450f-867e-a883900a6644)
+![image](https://github.com/vamshigajera17/E-commerce-project-springBoot/assets/81226571/02a04d3c-1fc9-418c-b231-639f6525d07e)
+![image](https://github.com/vamshigajera17/E-commerce-project-springBoot/assets/81226571/24c4451b-43a6-4c23-a78a-786eab4303b0)
+![image](https://github.com/vamshigajera17/E-commerce-project-springBoot/assets/81226571/93c1baeb-326c-450f-867e-a883900a6644)
 
 
 ## Created by 
